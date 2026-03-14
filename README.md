@@ -1,4 +1,4 @@
-# Comparative Analysis of Lighting Dimming Techniques
+# Effects of Dimming on Power Consumption in Lighting
 
 ## Project Overview
 
